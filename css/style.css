@@ -1,0 +1,57 @@
+body{
+	background-color: black;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-size: 58px;
+	font-family: calibri;
+}
+
+
+div.img{	
+	margin-left: 125px;
+	border-image: solid;
+	float: left;
+}
+div.img1{
+	margin-left: 15px;
+	float: left;
+}
+div.img2{
+	margin-left: 15px;
+	float: left;
+}
+div.img3{
+	margin-left: 15px;
+	float: left;
+}
+div.img4{
+	margin-left: 15px;
+	float: left;
+}
+
+input{
+	border-color:gray;
+	background-color: black;
+	color: gray;
+	text-align: center;
+	width: 250px;
+	height: 40px;
+	font-size: 16px;
+	margin-left: 550px;
+	margin-top: 100px;
+}
+h4{
+	text-align: left;
+	color: red;
+	font-family: calibri;
+	font-size: 36px;
+
+}
+figcaption{
+	color: white;
+	font-family: calibri;
+	font-size: 18px;
+	padding-left: 75px;
+}
